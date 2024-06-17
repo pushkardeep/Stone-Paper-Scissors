@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 2. Navigate into the project directory::
    ```bash
-   cd rock-paper-scissors
+   cd Stone-Paper-Scissors
 
 3. Install dependencies::
    ```bash
